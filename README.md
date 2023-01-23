@@ -63,16 +63,17 @@
 		<img width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB" /> 
 		<img width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL" /> 
 	</div>
+	<br/>
 </div>
 
 <!-- GITHUB Stats -->
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=purvesh62&hide=prs,issues&count_private=true&show_icons=true&locale=en" alt="Github Stats" />
-  </br>
+  	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=purvesh62&" alt="Streaks Stats" />
-  </br>
+  	<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvesh62&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,EJS" alt="Most Used Languages" />
-  </br>
+  <br/>
 </div>
 
 
