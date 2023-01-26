@@ -1,22 +1,22 @@
-<h1 align="center">Hey there! I'm Purvesh Rathod👋</h1>
-<h3 align="center"><b>Welcome to my Github Page!</></h3>
 
-</br>
-  
+# Purvesh Rathod
+### Software Developer | CS Graduate Student @Dalhousie University
 
-- 👨‍🎓 Currently pursuing Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.<br/>  
-	
-<!-- - 💻 Currently working on [UWM-GI-Tract-Image-Segmentation](https://github.com/purvesh62/UWM-GI-Tract-Image-Segmentation).<br/> -->
+⚐ Based in Canada
 
-- 🌱  Exploring field of **Software Development**, **Cloud Computing** and **NLP**.<br/>
+ϟ 👨‍🎓 Currently pursuing Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.
 
-- 💬 Ask me about Backend Development, DevOps and Python programming.<br/>
+🌱  Exploring field of **Software Development**, **Cloud Computing** and **NLP**.<br/>
 
-- 📫 How to reach me? **purvesh62@gmail.com**<br/>
+💬 Ask me about Backend Development, DevOps and Python programming.<br/>
 
-  
+📫 How to reach me? **purvesh62@gmail.com**<br/>
+
 <h3>Connect with me:</h3>
-<div >
+  
+<a aligh="left" href="mailto:purvesh62@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/purvesh_rathod" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/purveshrathod" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+
+<!-- <div >
 	<div>
 	  <a href="https://twitter.com/purvesh_62" target="blank">
 	    <img src='https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter'/>
@@ -29,8 +29,13 @@
     </a>
 	</div>
 </div>
+-->
 
-<!-- Language & Tools -->
+## Skills
+   <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.perl.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/perl.svg" alt="Perl" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a>  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> 
+
+
+<!-- Language & Tools
 <h3>Languages and Tools:</h3>
 <div>
 	<div>
@@ -47,7 +52,6 @@
 	</div>
 </div>
 
-<!-- Front-End Frameworks -->
 <br/>
 <div style='background-color:#00000080;' >
 	<img src='https://img.shields.io/badge/Full%20Stack%20Development-696969?style=for-the-badge&logo=Weblate' />
@@ -64,7 +68,7 @@
 		<img width="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL" /> 
 	</div>
 	<br/>
-</div>
+</div> -->
 
 <!-- GITHUB Stats -->
 <div>
