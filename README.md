@@ -1,5 +1,5 @@
 
-# Purvesh Rathod
+# Hi, I'm [Purvesh Rathod](https://purvesh.me)
 
 ### Software Developer | CS Graduate Student @Dalhousie University
 
