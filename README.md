@@ -1,5 +1,6 @@
 
 # Purvesh Rathod
+
 ### Software Developer | CS Graduate Student @Dalhousie University
 
 ⚐ Based in Canada
