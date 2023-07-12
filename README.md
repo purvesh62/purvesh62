@@ -76,7 +76,7 @@
 <!--   	<br/> -->
 <!-- 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=purvesh62&" alt="Streaks Stats" /> -->
 <!--   	<br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvesh62&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,EJS" alt="Most Used Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvesh62&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,EJS" alt="Most Used Languages" /> -->
 <!--   <br/> -->
 </div>
 
