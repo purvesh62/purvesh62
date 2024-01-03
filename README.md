@@ -3,15 +3,15 @@
 
 ### [Portfolio](https://purvesh.me)
 
-### Software Developer | CS Graduate Student @Dalhousie University
+### Full Stack Software Developer
 
 ⚐ Based in Canada
 
-ϟ 👨‍🎓 Currently pursuing Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.
+ϟ 👨‍🎓 Recent graduate from Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.
 
-🌱  Exploring field of **Software Development**, **Cloud Computing** and **NLP**.<br/>
+🌱  Exploring field of **Software Development**, **Cloud Computing** and **DevOps**.<br/>
 
-💬 Ask me about Backend Development, DevOps and Python programming.<br/>
+💬 Ask me about Software Development, DevOps and Python programming.<br/>
 
 📫 How to reach me? **purvesh62@gmail.com**<br/>
 
